@@ -1,4 +1,4 @@
-/*!
+/*
  * Bootstrap v4.4.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
  * Copyright 2011-2019 Twitter, Inc.
@@ -544,7 +544,7 @@ pre code {
 .container {
   width: 100%;
   padding-right: 15px;
-  padding-left: 15px;
+  padding-left: 170px;
   margin-right: auto;
   margin-left: auto;
 }
